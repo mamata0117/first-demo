@@ -1,7 +1,2 @@
 # first-demo
-First repository
-haha
-new i guess
-first time user
-learning git
-hey
+Hello everyone,this is my first repository !!!
